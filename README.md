@@ -7,7 +7,7 @@ Mohammad Jakir khan)</h1>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=mohammadjakirkhan4928&color=red)
 
 Skills:  React-Native / Expo / Javascript / BOOTSTRAP / REACT / JS / HTML / CSS / Node Js / MongoDB
 
@@ -59,8 +59,6 @@ Skills:  React-Native / Expo / Javascript / BOOTSTRAP / REACT / JS / HTML / CSS 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-
 
 
 <p align="left">
