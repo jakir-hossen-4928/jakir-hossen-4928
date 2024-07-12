@@ -1,10 +1,12 @@
-![I am mohammadjakirkhan4928](https://i.ibb.co/cw1TKQR/react-native.png)
+<p align="center">
+  <img src="https://i.ibb.co/cw1TKQR/react-native.png" alt="I am mohammadjakirkhan4928" width="100%"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Jakir Khan</h1>
 <h3 align="center">Programmer | Web Developer | App Developer</h3>
 
-<div align="center ">
-  ![Profile views](https://komarev.com/ghpvc/?username=mohammadjakirkhan4928&color=red)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadjakirkhan4928&color=red" alt="Profile views"/>
 </div>
 
 <div align="center">
@@ -102,5 +104,8 @@
   </a>
   <a href="https://www.facebook.com/mohammad.jakirkhan.79" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="mohammad.jakirkhan.79" style="margin-bottom: 5px; margin-right: 2px;" />
-  </a>  
+  </a>
+  <a href="https://www.instagram.com/mohammad_jakir_khan/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="mohammad_jakir_khan" style="margin-bottom: 5px; margin-right: 2px;" />
+  </a>
 </div>
