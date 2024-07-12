@@ -15,7 +15,7 @@ Skills:  React-Native / Expo / Javascript / BOOTSTRAP / REACT / JS / HTML / CSS 
 
 - 🌱 I’m currently learning React Native App Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammadjakirkhan4928?tab=repositories](https://github.com/mohammadjakirkhan4928)
+- 👨‍💻 All of my projects are available at [https://github.com/mohammadjakirkhan4928](https://github.com/mohammadjakirkhan4928)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
