@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Jakir Khan</h1>
-<h3 align="center">Programmer | Web Developer | App Developer</h3>
+<h3 align="center"> Web Developer | App Developer(Learner) </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadjakirkhan4928&color=red" alt="Profile views"/>
