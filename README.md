@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/cw1TKQR/react-native.png" alt="I am Jakir Hossen" width="70%"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Jakir Hossen</h1>
 <h3 align="center"> Web Developer | App Developer (Learner) </h3>
